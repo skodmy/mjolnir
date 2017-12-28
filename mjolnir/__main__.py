@@ -20,7 +20,7 @@ import sys
 import time
 from threading import Thread
 
-import socks
+from . import socks
 
 global stop_now
 
